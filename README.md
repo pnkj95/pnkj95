@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pnkj95
+- 👋 Hi, I’m Pankaj
 - 👀 I’m interested in Java, python and related technologies
 - 🌱 I’m currently learning Cloud technologies
 - 💞️ I’m looking to collaborate on any web applications based on Java technologies
